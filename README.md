@@ -1,5 +1,5 @@
 # maria-destroyer
-Для запуска нужно установить mariaDB и ряд пакетов питона:
+Проведение перформанс и функционального теста mariadb. Для запуска нужно установить mariaDB и ряд пакетов питона:
 ```
 sudo apt-get update
 sudo apt-get install libmariadb3 libmariadb-dev
